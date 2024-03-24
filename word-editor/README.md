@@ -7,7 +7,7 @@ To use this component, copy and paste it under your `src/components` folder. Als
  # Examples
 
  ## Plain editor
- <video width="320" height="240" controls>
-  <source src="./plain-editor.mov" type="video/mov">
-  Your browser does not support the video tag.
-</video>
+Here's a video demonstration:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/naSdIqi1Y2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
