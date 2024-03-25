@@ -14,7 +14,7 @@ function WoodPanel({value, onValueChange, onClickSend }) {
             </button>
             <div className="wood-panel-body flex flex-col justify-between items-center">
                 <textarea className="gray-text-area h-64 w-full" placeholder="Enter your prompt... " value={value} onChange={(e) => onValueChange(e.target.value)}></textarea>
-                <button className="btn-white-1 font-monofett text-h3 flex flex-row gap-1" onClick={onClickSend}>CONTINUE</button>
+                <button className="btn-white-1 font-monofett text-h3" onClick={onClickSend}>CONTINUE</button>
             </div>
         </div>
      );
