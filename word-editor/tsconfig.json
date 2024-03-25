@@ -194,6 +194,7 @@
       "shared/useLayoutEffect": ["./packages/shared/src/useLayoutEffect.ts"]
     }
   },
+  "include": ["./libdefs", "./packages"],
   "exclude": [
     "**/lexical-*/src/__tests__/**",
     "**/dist/**",
